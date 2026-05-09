@@ -1,0 +1,52 @@
+[1:50] Interviewer: This interview will be in three phases — introductions, Q&A, and exit. Project and program manager mix kind of role. Focused on program management, vendor management, stakeholder and leadership engagement.
+[3:31] Candidate: Myself Krishna. From Telangana, Hyderabad. B.Tech in mechanical engineering, 2018.
+[4:05] Candidate: In 2019 I joined an ed-tech company as associate in operations. Soon moved to digital finance — managed end-to-end finance operations: sales, orders, revenue, marketing spends.
+[5:01] Candidate: Then promoted into a new department — FDPU, fraud detection and prevention unit. Got exposure to interact with CBOs, CEOs, CXOs.
+[5:28] Candidate: From scratch to ISO certification. Building a CRM, drafting KRAs and KPIs, building dashboard for fraud detection.
+[6:01] Candidate: Sales team did fraudulent activities like punching fake documents. We built FTP risk score, implemented in CRM. Drafted BRD requirements to product team. Enrolled 22 vendors at pan India level.
+[7:55] Candidate: Later joined another ed-tech company in operations. Before that they used sheets — pick leads and call manually.
+[8:54] Candidate: I convinced leadership to move to a CRM, Merito. Collaborated with tech and product teams to engage databases. Raised proper BRD/PRD and implemented end to end.
+[10:16] Candidate: I identified issues in their website. Found bugs, raised them. They gave me a team and I built dashboards. Currently handling business operations and analytics.
+[11:13] Interviewer: Can you explain one process or initiative you have done end to end — step by step from start to final result?
+[11:43] Candidate: I can mostly relate to fraud detection and prevention. When I got the FDPU opportunity, I connected with all internal teams.
+[12:13] Candidate: I connected with sales team and understood gaps. There were three payment methods — direct payment via UPI/credit card, flexi pay for part payments, and loan payment. Loan payment is where the company collapsed.
+[13:07] Candidate: Most orders were punched in loans. They did not have proper mechanism to identify the right customer. They used one ABB average bank balance calculation sheet for loan approvals.
+[13:42] Candidate: I connected with Experian and CIBIL for credit score. Integrated with our app. Took two to three months to explain the project to management.
+[14:09] Candidate: As an educational company, they cannot show themselves as loan provider. We tied up with RBL Bank and Avans, integrated in payment gateway.
+[14:38] Candidate: To auto-fetch customer details, connected with Jio and Airtel — when user enters mobile number, back-end database fetches automatically. Then Truecaller to verify spam or fraud.
+[16:05] Candidate: I built my own score by giving weightages. Identified PIN codes from past data where customers pay one EMI and leave. Gave weightage to gender, PIN code, educational qualifications. Today 100 sales punched, run through the score — instead of 100 audits, we do only 10 required ones.
+[17:30] Candidate: I got into one major scam case. Connected with the partner and verified — found a large-scale scam, hundreds of crores. VPs would say this is not the right data. I needed proper analytics data to show what they were doing is wrong. Finally I proved it and we stopped that partnership.
+[19:09] Interviewer: Walk me through the process when talking to a vendor — how do you get them on board?
+[19:30] Candidate: First, market research. If hiring with specific geographic location, I search how many providers in that area. Found minimum 4 to 5 vendors. Take feedback on efficiency, timely delivery, data security.
+[20:30] Candidate: Next, services and commercials. Verified with market whether charging same or extra. Finally discussed with leadership and enrolled with support of legal team.
+[21:10] Interviewer: Have you worked with a vendor who underperformed? What action did you take?
+[21:24] Candidate: If a vendor is not giving timely reports or delivering, initially we highlight to the same person, then go hierarchy level to their CXO, CEO. If still not in line, we did not take action immediately — went for alternate option and hired them. Did not lose original vendor immediately — gave some cases and slowly reduced weightage. After legal team check on contract clauses, continued till deadline with minimum cases. Then terminated.
+[23:59] Interviewer: Leadership wants to improve execution speed. You join an organization as project manager. Three departments — structure, UI, software — total misalignment. How will you approach?
+[27:33] Candidate: Initially I connect with all three teams. Understand requirement raised by business team. Break down into phases. If ETA is 3 months, every 15 days catch-up call to take progress.
+[28:46] Candidate: I will not blindly trust whatever they tell. For example, product says one UI/UX takes one month but actually takes 10 days. If I have understanding I can tell — take 15 days, give to your team to test.
+[31:53] Interviewer: Your organization is facing inefficiency in BPO/calling. How would you approach upgrading?
+[32:47] Candidate: Sales team sitting and doing calls. Instead of giving them time to prioritize, I prioritize from my end and run auto dialer. If they are doing click to call or preview dialing, I implement predictive dialing — saves time, connects to customer first, then immediately lands on counselor's mobile.
+[34:07] Candidate: Minimize time — for example if salesperson needs to enter CRM and search lead, this should not happen. I do pop-ups. For follow-up calls I run auto dialer. If they need additional support, I arrange a mix — call redirected to manager or senior counselor.
+[36:15] Interviewer: What KPIs do you track for operation success?
+[36:25] Candidate: For sales team — number of hours active on dialer, working hours, connected talk time, effective calls more than 3 or 5 minutes. Revenue closed in a day, daily/weekly/monthly/quarterly target achievement.
+[37:23] Candidate: Based on this, incentives aligned. If he is doing much talk time and bringing revenue, KPIs aligned where he gets proper incentive with salary.
+[38:01] Interviewer: Have you presented data to higher-level stakeholder or leadership?
+[38:30] Candidate: Currently handling analytics and operations. Weekly business reviews, monthly business reviews — executive dashboards showing revenue, target achievement, refunds, customers retained.
+[39:14] Candidate: Breaking down into teams — which is achieving highest, where lagging. Some teams might bring higher revenue but no proper talk time with student.
+[39:43] Candidate: Marketing — spend, ROAS, CAC, lookalike or demand gen campaigns. Batch operations — students enrolled, attending class, raised issues, resolved within timeline.
+[42:00] Interviewer: A stakeholder disagrees with your data — for example you show 1000 enrolled, he says 2000. How will you handle?
+[43:05] Candidate: We cannot say 100% accuracy — even leadership knows 99.5%. If leadership found mistake, we listen and cross check post meeting. I cannot disturb the decorum. I note down and rectify after meeting. But if the meeting depends on that data, immediately I look and resolve. Before going to meeting I make sure to do proper check.
+[45:48] Interviewer: Multiple stakeholders — one in India, one in US — both saying P1, but you can only do one. How will you choose?
+[46:42] Candidate: I see which makes proper sense — towards company growth, impacting directly. For example, one client raises "bring dialer to main screen", another "want browser to search internet". For me priority is browser. Because currently he can access dialer from inside UI, not from main UI.
+[49:05] Interviewer: The stakeholder you are not picking — how will you explain?
+[50:05] Candidate: I list down requirements, internally analyze with business team. I connect with stakeholder and explain which project is important to take immediately. I convince by explaining priority — and how the other can be managed for some days, deprioritizing for some days, not completely. Give proper analysis of consequences.
+[51:11] Interviewer: When multiple parties are involved in a complicated process, how do you measure success?
+[53:22] Candidate: Not only me — lot of dependencies. Other teams supported, prioritized, listened to my queries. I will not take that success first — I give it to the team. Their success is my success.
+[54:12] Candidate: If there is lag and no one able to do it, sometimes not from my end. I take the blame, because leadership trusted me. I do complete research where mistake happened, fix it, tell team how important the project is. If stuck I support them.
+[58:57] Interviewer: I am done with my questions. Last phase — exit. Any feedback or questions?
+[59:46] Candidate: Thanks for this opportunity. I got a lot from the critical thinking questions. In this JD there are two অন্তত things — BPO and software development. What exactly will this company do?
+[60:29] Interviewer: I am a third party. Based on requirement, you will be into multiple things — vendor management, BPO, security. No single leg. They were looking for someone who can do everything.
+[61:56] Candidate: Any feedback for me?
+[61:59] Interviewer: You use lot of jargons in Hindi when you try to explain. In starting round fine, but as rounds increase it will be about communication and confidence. In leadership round, they look at confidence. These roles connect with VPs, SVPs, high-level vendors. If you sort that, it solves the problem.
+[63:06] Candidate: Thank you so much.
+[63:08] Interviewer: Thank you, have a great day.
